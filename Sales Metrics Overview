@@ -1,0 +1,73 @@
+## 1. Core Metrics (from Sales fact table)
+
+- **Total Revenue**, **Quantity Sold**, **Order Count**, **Profit** – these are your essentials.  
+- **Track Sales Growth** (YoY/MoM) to see trends.  
+- **Average Order Value / Deal Size** (`Revenue ÷ Order Count`) shows transaction quality.
+
+---
+
+## 2. Customer Insights (using Customer dimension)
+
+- **Sales by Customer**: Identify top customers by revenue or frequency.  
+- **Customer Lifetime Value (CLV)**: Total revenue per customer over time.  
+- **Retention & Churn Rates**: Measure how many customers repeat purchases (or don’t).
+
+---
+
+## 3. Product Performance (using Product dimension)
+
+- **Sales by Product / Category**: Understand what sells best and where to invest.  
+- **Product Mix, Growth, Decline**: Track products gaining or losing traction.  
+- **Average Price by Product**: `Revenue ÷ Quantity` helps with pricing strategy.
+
+---
+
+## 4. Funnel & Conversion Metrics
+
+- **Conversion Rate**: Ratio of orders placed vs. opportunities/leads.  
+- **Sales Cycle Length**: Time from first interaction to closed sale.
+
+---
+
+## 5. Velocity & Pipeline Health
+
+- **Monthly Sales Growth**: Check momentum.  
+- **Deals Booked / Pipeline Coverage**: Compare pipeline value vs. targets.  
+- **Average Response Time**: Speed of follow-up can influence close rate.
+
+---
+
+## 6. Rep or Segment Performance (if your Sales includes reps or regions)
+
+- **Revenue per Rep/Region**, **Win Rate**, **Bookings per Rep**.  
+- **Retention by Rep**: Measures customer satisfaction and rep effectiveness.
+
+---
+
+## 7. Contextual Analysis (use dimensions effectively)
+
+- **Slice & dice** by Time, Customer Tier, Product Category, Region – gives clarity.  
+- Use **hierarchies** (e.g., Product → Category) for drill-down views.
+
+---
+
+## 🛠️ Putting It All Together in Power BI
+
+- Model your star schema: link Sales (fact) to Customer & Product (dimension) tables.  
+- Build visuals: bar charts for top 10 products, line charts for monthly growth, tables of repeat customers.  
+- Create KPIs with thresholds (e.g., conversion rate goal, revenue growth target).  
+- Add filters/slicers: allow toggling by customer segment, product line, or time period.  
+- Offer both high-level dashboards and drill-through details (e.g., click a product to see its customer breakdown).
+
+---
+
+## 🎯 Summary Checklist
+
+| Area                    | Key Metrics & Questions                                        |
+|-------------------------|---------------------------------------------------------------|
+| **Revenue & Volume**    | What’s total revenue? Growth trend? Avg deal size?           |
+| **Customer Value**      | Who are top customers? CLV? Retention rates?                 |
+| **Product Success**     | Which products/categories are best? What’s growing or declining? |
+| **Funnel & Efficiency** | Conversion rates? Sales cycle length? Response times?         |
+| **Rep/Segment Output**  | Revenue per rep, win rates, retention per rep?               |
+| **Dimension Slicing**   | Filterable by time, region, category? Hierarchies in place? |
