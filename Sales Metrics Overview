@@ -22,14 +22,7 @@
 
 ---
 
-## 4. Funnel & Conversion Metrics
-
-- **Conversion Rate**: Ratio of orders placed vs. opportunities/leads.  
-- **Sales Cycle Length**: Time from first interaction to closed sale.
-
----
-
-## 5. Velocity & Pipeline Health
+## 4. Velocity & Pipeline Health
 
 - **Monthly Sales Growth**: Check momentum.  
 - **Deals Booked / Pipeline Coverage**: Compare pipeline value vs. targets.  
@@ -37,14 +30,14 @@
 
 ---
 
-## 6. Rep or Segment Performance (if your Sales includes reps or regions)
+## 5. Rep or Segment Performance (if your Sales includes reps or regions)
 
 - **Revenue per Rep/Region**, **Win Rate**, **Bookings per Rep**.  
 - **Retention by Rep**: Measures customer satisfaction and rep effectiveness.
 
 ---
 
-## 7. Contextual Analysis (use dimensions effectively)
+## 6. Contextual Analysis (use dimensions effectively)
 
 - **Slice & dice** by Time, Customer Tier, Product Category, Region – gives clarity.  
 - Use **hierarchies** (e.g., Product → Category) for drill-down views.
