@@ -32,7 +32,7 @@ Each project showcases real-world scenarios covering:
 ---
 
 ## 📂 Repository Structure
-PowerBI-Projects/
+```PowerBI-Projects/
 ├── Project-1/
 │ ├── Project1.pbix
 │ ├── README.md
@@ -43,7 +43,7 @@ PowerBI-Projects/
 │ ├── Project3.pbix
 │ ├── README.md
 ├── ...
-└── README.md # ← This file
+└── README.md # ← This file```
 
 ---
 
