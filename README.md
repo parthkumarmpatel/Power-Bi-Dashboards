@@ -43,8 +43,8 @@ Each project showcases real-world scenarios covering:
 │ ├── Project3.pbix
 │ ├── README.md
 ├── ...
-└── README.md # ← This file```
-
+└── README.md # ← This file
+```
 ---
 
 ## 🔄 How to Use
