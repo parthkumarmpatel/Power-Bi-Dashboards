@@ -1,7 +1,5 @@
 
-# 🧠 Power BI DAX Functions – Complete Cheat Sheet
-
-This is a **full DAX functions cheat sheet** for Power BI interviews. Functions are categorized by type with **example** and **context**.
+# 🧠 Power BI DAX Functions
 
 ---
 
@@ -125,6 +123,3 @@ This is a **full DAX functions cheat sheet** for Power BI interviews. Functions 
 | PATHLENGTH() | Number of levels in path. | `PATHLENGTH(EmployeePath)` | Row |
 
 ---
-
-✅ **Interview Tip:** Focus on **CALCULATE + FILTER + ALL + Time Intelligence** with row vs. filter context; that’s the most common scenario in dashboards.
-
